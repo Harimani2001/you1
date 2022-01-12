@@ -30,3 +30,5 @@ In build.gradle file, replace:
 
 Because, version 7.0 removed compile and testCompile configurations.
 Source: https://docs.gradle.org/current/userguide/upgrading_version_6.html#sec:configuration_removal
+
+Bye and take care
